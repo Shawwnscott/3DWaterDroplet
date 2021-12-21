@@ -1,6 +1,6 @@
 # 3D Water Droplet
 
-![](./3DWaterDroplet/blob/main/3D%20Water%20Droplet.PNG)
+![](./3D%20Water%20Droplet.PNG)
 
 
 
